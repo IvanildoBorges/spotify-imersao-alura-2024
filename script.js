@@ -54,7 +54,7 @@ function displayResults(result) {
         `
     )
 
-    containerDeCards.innerHTML = card
+    containerDeCards.innerHTML = card.join('')
 
     resultPlaylist.classList.add("hidden")
 }
