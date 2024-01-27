@@ -11,6 +11,6 @@ Construindo um Streaming de música
 npm i json-server -g
 
 3. Abra o prompt de comando e utilize o código abaixo para simular uma API:<br>
-json-serve --watch caminho_do_arquivo
+json-serve --watch api-artists/artists.json
 
 4. Agora é só abrir o projeto com o plugin Live Server do editor VS Code e testar seu projeto ^^
